@@ -1,4 +1,5 @@
 **Credit Card Fraud Detection**
+
 **Project Overview**
 This project aims to detect credit card fraudulent transactions using machine learning algorithms. Fraudulent transactions result in significant financial losses for individuals and institutions. This project utilizes Logistic Regression, Gradient Boosting, and Random Forest algorithms to identify high-risk transactions.
 
