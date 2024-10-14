@@ -15,10 +15,10 @@ This project aims to detect credit card fraudulent transactions using machine le
 3. Model Selection: Comparing performance of Logistic Regression, Gradient Boosting, and Random Forest algorithms.
 4. Hyperparameter Tuning: Optimizing model parameters using cross-validation.
 
-**Models
+**Models**
 
-Logistic Regression
-**
+
+**Logistic Regression**
 - Description: A linear model for binary classification.
 - Hyperparameters: Regularization (L1, L2), penalty term.
 
